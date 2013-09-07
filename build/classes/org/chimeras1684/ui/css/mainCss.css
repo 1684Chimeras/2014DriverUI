@@ -1,0 +1,16 @@
+/* 
+    Document   : mainCss
+    Created on : Jul 2, 2013, 2:25:20 AM
+    Author     : Arhowk
+    Description:
+        Purpose of the stylesheet follows.
+*/
+.header{
+    -swing-background: #FFFF00000;
+}
+.headerdesc{
+    -swing-background: #FFFFFF00;
+}
+.body{
+    -swing-background: #FF0000FF;
+}
