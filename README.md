@@ -16,3 +16,13 @@ RUN INSTRUCTIONS
 	1. Hit "Clone in Desktop"
 	2. Go into userdoc//Github//2014DriverUI//build
 	3. Run 2014DriverUI.jar
+	
+  
+  Note : This dashboard also requires the installation of OpenCV and SmartDashboard's JavaCV
+	
+	1. Download the latest SmartDashboard FULL installer (http://wpilib.screenstepslive.com/s/3120/m/7932/l/93058-smart-dashboard-standalone-vision-installer) (May be outdated)
+	2. Run the installer, the basic extract paths should be fine for then dashboard (not all steps on above link are required)
+	3. Download the latest version of OpenCV (this build should be flexible based on opencv version, see below links for download)
+	4. Install OpenCV as instructed by http://docs.opencv.org/doc/tutorials/introduction/windows_install/windows_install.html and http://docs.opencv.org/doc/tutorials/introduction/windows_install/windows_install.html#windowssetpathandenviromentvariable
+	5. Go into //opencvfolder//build//java//x64(or x86)//opencv_java###.dll
+	6. Place that dll in the folder C://Windows//System32
