@@ -24,5 +24,5 @@ RUN INSTRUCTIONS
 	2. Run the installer, the basic extract paths should be fine for then dashboard (not all steps on above link are required)
 	3. Download the latest version of OpenCV (this build should be flexible based on opencv version, see below links for download)
 	4. Install OpenCV as instructed by http://docs.opencv.org/doc/tutorials/introduction/windows_install/windows_install.html and http://docs.opencv.org/doc/tutorials/introduction/windows_install/windows_install.html#windowssetpathandenviromentvariable
-	5. Go into //opencvfolder//build//java//x64(or x86)//opencv_java###.dll
-	6. Place that dll in the folder C://Windows//System32
+	5. Go into //opencvfolder//build//java//x64 and x86 (see step 6)//opencv_java###.dll
+	6. Place that dll in the folder C://Windows//System32 for x64 and Windows//SYSWOW64 for x86
