@@ -14,7 +14,7 @@ RUN INSTRUCTIONS
   Only follow these steps if Jake is not available available to setup the driver station.
   
 	1. Hit "Clone in Desktop"
-	2. Go into userdoc//Github//2014DriverUI//build
+	2. Go into userdoc//Github//2014DriverUI//dist
 	3. Run 2014DriverUI.jar
 	
   
